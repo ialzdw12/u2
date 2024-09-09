@@ -1,0 +1,58 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #888585;
+}
+header{
+	background-color: #4e4e4e;
+	padding: 15px 0;
+}
+
+#hero {
+	background-color: #383737;
+}
+
+h1 {
+	font-size: 70px;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 60px;
+
+}
+
+.section{
+	padding-bottom: 60px;
+	padding-top: 60px;
+}
+.titulo{
+	color: #3c3838;
+	font-size: 70px;
+	text-transform: uppercase;
+	text-align: center;
+}
+#coaches {
+	background-color: #f3f3f3;
+	text-align: center;
+}
+
+footer {
+	background-color: #383737;
+	color: #888585;
+	text-align: center;
+}
+
+
+
+.numbers {
+	color: #e6e8eb;
+	font-size: 70px;
+
+}
+
+.text-left {
+	text-align: right;
+}
+
+.color {
+	color: #3c3838;
+}
